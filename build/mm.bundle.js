@@ -71965,10 +71965,10 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": [],
-    "gcmpn": "578987199728",
+    "gcmpn": "694767596569",
     "customurlscheme": "cmoodlemobile",
     "siteurl": "https://lms.vidyamantra.com",
-    "multisitesdisplay": "select",
+    "multisitesdisplay": "",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://www.keytoschool.com/privacy-policy/"
